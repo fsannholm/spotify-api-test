@@ -1,0 +1,31 @@
+{
+  "name": "spotify-router",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "querystring": "^0.2.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "next",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0",
+    "semantic-ui-css": "^2.2.10",
+    "semantic-ui-react": "^0.70.0",
+    "spotify-web-api-js": "^0.22.0",
+    "spotify-web-api-node": "^2.4.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
